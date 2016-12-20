@@ -21,6 +21,7 @@ Current language libraries with the API integrated ( in alphabetical order ) :
 * [Java](https://github.com/Janoz-NL/torrentlib) Java torrentlib maintainer [Janoz-NL](https://github.com/Janoz-NL/) [api version 2]
 * [Perl](https://github.com/pacoesteban/Rarbg-torrentapi) Rarbg::torrentapi maintainer [pacoesteban](https://github.com/pacoesteban) [api version 2]
 * [PHP](https://github.com/rhnorskov/torrentapi-php) TorrentAPI-PHP maintainer [RHNorskov](https://github.com/RHNorskov) [api version 2]
+* [Ruby](https://github.com/epistrephein/rarbg) A ruby wrapper for TorrentAPI maintainer [epistrephein](https://github.com/epistrephein) [api version 2]
 
 Current "plugin-ins/add-on scripts" with the API integrated are :  
 * [kodi.rarbg](https://github.com/romanvm/kodi.rarbg) maintainer [romanvm](https://github.com/romanvm) [api version 2]
