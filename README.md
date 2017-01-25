@@ -12,6 +12,7 @@ Current "apps" with the API integrated/pending integration are (in alphabetical 
 * [SickGear](https://github.com/SickGear/SickGear) maintainer [JackDandy](https://github.com/JackDandy) [api version 2]
 * [SickRage](https://github.com/SickRage/SickRage) maintainer [miigotu](https://github.com/miigotu) [api version 2]
 * [Sonarr](https://github.com/Sonarr/Sonarr) maintainer [Taloth](https://github.com/Taloth) [api version 2]
+* [Watcher](https://github.com/nosmokingbandit/watcher) maintainer [nosmokingbandit](https://github.com/nosmokingbandit) [api version 2]
 
 Current "mobile apps" with the API integrated/pending integration are (in alphabetical order) :  
 * [Transdroid-Search](https://github.com/erickok/transdroid-search) maintainer [erickok](https://github.com/erickok) [api version 2]
